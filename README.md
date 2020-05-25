@@ -1,1 +1,1 @@
-K-Means聚类算法及其改进
+### The K-Means algorithm whose optimization is initially a cluster center ###
